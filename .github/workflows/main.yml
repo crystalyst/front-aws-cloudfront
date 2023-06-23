@@ -1,4 +1,4 @@
-name: my-front
+name: front-aws-cloudfront
 on:
   push:
     branches:
